@@ -14,7 +14,7 @@ const removeDuplicates = (arr) => {
   });
   return Object.keys(unique);
 }
-removeDuplicates(names); // 'John', 'Paul', 'George', 'Ringo'
+removeDuplicates(arr); // 'John', 'Paul', 'George', 'Ringo'
 ```
 
 ## Using filter
