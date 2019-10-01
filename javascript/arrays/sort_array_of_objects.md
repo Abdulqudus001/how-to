@@ -38,5 +38,5 @@ const arrOfObj = [
     language: 'rails',
   },
 ]
-sortBy(arrOfObj, 'name'); // Returns the array with Doe, Jane and the John
+sortBy(arrOfObj, 'name'); // Returns the array with Doe, Jane and then John
 ```
